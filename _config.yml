@@ -1,0 +1,16 @@
+# theme: jekyll-theme-leap-day
+
+# Site settings
+title: AI-Sys Sp22
+email: jegonzal@berkeley.edu 
+author:
+description: AI-Sys Sp22 Course Website
+
+
+baseurl: /cs294-ai-sys-sp22
+
+# Build settings
+# permalink: :title/
+sass:
+  sass_dir: css
+
