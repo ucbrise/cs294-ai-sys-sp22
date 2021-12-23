@@ -30,7 +30,7 @@ For projects, we will strongly encourage teams that contains both AI and systems
 ## New Course Format
 
 Two previous versions of this course were offered in <a href="https://ucbrise.github.io/cs294-ai-sys-sp19/#today">Spring 2019</a>, and <a href="https://ucbrise.github.io/cs294-ai-sys-fa19/#today">Fall 2019</a>.
-The format of this second offering is slightly different.  Each week will cover a different research area in AI-Systems.
+The format of this third offering is slightly different.  Each week will cover a different research area in AI-Systems.
 The lecture will be organized around a mini program committee meeting for the weeks readings. Students will be required to submit detailed reviews
 for a subset of the papers and lead the paper review discussions. For some of the topics, we have also invited prominent researchers for each area and they will present
 an overview of the field, followed by discussions raised during the "committee meeting".
