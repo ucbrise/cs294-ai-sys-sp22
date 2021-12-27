@@ -9,7 +9,7 @@ layout: default
 * **Where**: *TBA*
 * **Instructor**: [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
 * **Co-Instructor**: [Amir Gholami](https://eecs.berkeley.edu/~amirgh)
-   * **Office Hours:** *TBA*.
+* **Office Hours:** *TBA*.
 * **Announcements**: Piazza
 * **Sign-up to Present**: Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
 * If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-sp22) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-sp22/blob/master/index.md) file.
