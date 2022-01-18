@@ -6,7 +6,7 @@ layout: default
 # Machine Learning Systems (Spring 2022)
 
 * **When**: *Mondays from 1:00 to 4:00*
-* **Where**: First Class on Zoom (Link Provided by Email)
+* **Where**: Soda 405 (and on zoom with link posted in Piazza).
 * **Instructor**: [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
 * **Co-Instructor**: [Amir Gholami](https://eecs.berkeley.edu/~amirgh)
 * **Office Hours:**: Arrange by email.
