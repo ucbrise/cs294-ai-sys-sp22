@@ -39,8 +39,52 @@ develop a deeper understanding of how to evaluate and review research and hopefu
 
 
 ## Course Syllabus
-TBA
+{% capture dates %}
+1/24/22
+{% endcapture %}
+{% assign dates = dates | split: " " %}
 
+This is a tentative schedule. Specific readings are subject to change as new material is published.
+
+<a href="#today"> Jump to Today </a>
+
+<table class="table table-striped syllabus">
+<thead>
+   <tr>
+      <th style="width: 5%"> Week </th>
+      <th style="width: 10%"> Date </th>
+      <th style="width: 85%"> Topic </th>
+   </tr>
+</thead>
+<tbody>
+
+
+{% include syllabus_entry %}
+## Introduction and Course Overview
+
+This lecture will be an overview of the class, requirements, and an introduction to the history of machine learning and systems research. 
+
+* Lecture slides: [[pdf](assets/lectures/lec01/01_ai-sys-intro-small.pdf), [pptx](assets/lectures/lec01/01_ai-sys-intro.pptx)]
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [SysML: The New Frontier of Machine Learning Systems](https://arxiv.org/abs/1904.03257)
+* Read Chapter 1 of [_Principles of Computer System Design_](https://www.sciencedirect.com/book/9780123749574/principles-of-computer-system-design). You will need to be on campus or use the Library VPN to obtain a free PDF.
+* [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
+</div>
+
+<div class="optional_reading" markdown="1">
+* [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) provides some pretty good advice on how to read papers effectively.
+* Timothy Roscoe's [writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) will also help you in the reviewing process.
+</div>
+</div>
+
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Projects
 
