@@ -45,6 +45,17 @@ develop a deeper understanding of how to evaluate and review research and hopefu
 2/07/22
 2/14/22
 2/21/22
+2/28/22
+03/07/22
+03/14/22
+03/21/22
+03/28/22
+04/04/22
+04/11/22
+04/18/22
+04/25/22
+05/02/22
+05/09/22
 {% endcapture %}
 {% assign dates = dates | split: " " %}
 
@@ -87,7 +98,8 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 {% include syllabus_entry %}
 [//]: <> (lecture 2)
-## Big Data Systems 
+# Big Data Systems
+### Guest Speaker: Reynold Xin (Databricks)
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -108,7 +120,8 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 {% include syllabus_entry %}
 [//]: <> (lecture 3)
-## Lecture 3 
+# Hardware for Machine Learning
+### Guest Speaker: Prof. Sophia Shao (UC Berkeley)
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -128,7 +141,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 {% include syllabus_entry %}
 [//]: <> (lecture 4)
-## Lecture 4 
+# Distributed deep learning, Part I: Systems 
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -148,8 +161,13 @@ This lecture will be an overview of the class, requirements, and an introduction
 </div>
 
 {% include syllabus_entry %}
+# Holiday (Presidents Day)
+
+
+{% include syllabus_entry %}
 [//]: <> (lecture 5)
-## Lecture 5
+# Distributed deep learning, Part II: Scaling Constraints
+### Guest Speaker: Michael Houston (Nvidia)
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -168,6 +186,130 @@ This lecture will be an overview of the class, requirements, and an introduction
 * [Scaling Vision Transformers](https://arxiv.org/pdf/2106.04560.pdf)
 </div>
 </div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 6)
+# Project Proposals 
+
+{% include syllabus_entry %}
+[//]: <> (lecture 7)
+# Machine learning Applied to Systems
+### Guest Speaker: Prof. Tim Kraska (MIT)
+
+* Lecture slides: [PDF], [PPTX]
+
+<div class="reading">
+
+<div class="required_reading" markdown="1">
+* [The Case for Learned Index Structures [ICMD’18]](https://arxiv.org/abs/1712.01208)
+* [Device Placement Optimization with Reinforcement Learning [ICML’17]](https://arxiv.org/pdf/1706.04972.pdf)
+* [Neural Adaptive Video Streaming with Pensieve [SIGCOMM’17]](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf)
+</div>
+
+</div>
+
+{% include syllabus_entry %}
+# Spring Break
+
+{% include syllabus_entry %}
+[//]: <> (lecture 8)
+# Machine Learning Frameworks and Automatic Differentiation
+### Guest Speaker: Prof. Tianqi Chen (OctoML and CMU)
+
+* Lecture slides: [PDF], [PPTX]
+
+<div class="reading">
+
+<div class="required_reading" markdown="1">
+* [Automatic differentiation in ML: Where we are and where we should be going](https://papers.nips.cc/paper/8092-automatic-differentiation-in-ml-where-we-are-and-where-we-should-be-going)
+* [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
+* [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
+</div>
+
+</div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 9)
+# Efficient Machine Learning
+### Guest Speaker: Vikas Chandra (Facebook)
+
+* Lecture slides: [PDF], [PPTX]
+
+<div class="reading">
+
+<div class="required_reading" markdown="1">
+* [Integer-only Quantization of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/pdf/1712.05877.pdf)
+* [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
+* [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443)
+</div>
+
+<div class="optional_reading" markdown="1">
+* [The state of sparsity in deep neural networks](https://arxiv.org/pdf/1902.09574.pdf)
+* [Quantization and training of neural networks for efficient integer-arithmetic-only inference](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jacob_Quantization_and_Training_CVPR_2018_paper.pdf)
+* [Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/pdf/2102.00554.pdf)
+</div>
+</div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 10)
+# Fundamentals of Machine Learning in the Cloud, the Modern Data Stack  
+### Guest Speaker: Prof. Matei Zaharia (Databricks and Stanford)
+
+* Lecture slides: [PDF], [PPTX]
+
+{% include syllabus_entry %}
+[//]: <> (lecture 11)
+# Benchmarking Machine Learning Workloads
+### Guest Speaker: Prof. Vijay Reddi (Harvard)
+
+* Lecture slides: [PDF], [PPTX]
+
+<div class="reading">
+
+<div class="required_reading" markdown="1">
+* [MLPerf Training Benchmark](https://proceedings.mlsys.org/paper/2020/hash/02522a2b2726fb0a03bb19f2d8d9524d-Abstract.html)
+* [MLPerf Inference Benchmark](https://arxiv.org/pdf/1911.02549.pdf)
+* [Benchmark Analysis of Representative Deep Neural Network Architectures](https://arxiv.org/pdf/1810.00736.pdf)
+</div>
+
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 12)
+# Machine learning and Security
+
+* Lecture slides: [PDF], [PPTX]
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
+* [Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform](https://arxiv.org/pdf/1909.01502.pdf)  
+* [Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware](https://arxiv.org/abs/1806.03287)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Helen: Maliciously Secure Coopetitive Learning for Linear Models](https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf)
+* [Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference](https://arxiv.org/abs/1811.09953)
+* [Rendered Insecure: GPU Side Channel Attacks are Practical](https://www.cs.ucr.edu/~zhiyunq/pub/ccs18_gpu_side_channel.pdf)
+* [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+* [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+* [Federated Learning at Google ... A comic strip?](https://federated.withgoogle.com)
+* [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396.pdf)
+* More reading coming soon ...
+</div>
+</div>
+
+
+{% include syllabus_entry %}
+# RRR Week
+
+{% include syllabus_entry %}
+# Project Presentations
+
 
 </td>
 </tr>
