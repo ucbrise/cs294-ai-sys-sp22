@@ -79,7 +79,7 @@ This is a tentative schedule. Specific readings are subject to change as new mat
 # Introduction and Course Overview
 This lecture will be an overview of the class, requirements, and an introduction to the history of machine learning and systems research. 
 
-* Lecture slides: [[pdf](assets/lectures/lec01/01_ai-sys-intro-small.pdf), [pptx](assets/lectures/lec01/01_ai-sys-intro.pptx)]
+* Lecture slides: [[pdf](assets/lectures/lec01/01_intro_and_big_ideas_in_ai_systems.pdf), [pptx](assets/lectures/lec01/01_intro_and_big_ideas_in_ai_systems.pptx)]
 
 <div class="reading">
 
