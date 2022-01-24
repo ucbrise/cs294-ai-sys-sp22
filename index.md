@@ -76,7 +76,7 @@ This is a tentative schedule. Specific readings are subject to change as new mat
 
 {% include syllabus_entry %}
 [//]: <> (lecture 1)
-## Introduction and Course Overview
+# Introduction and Course Overview
 This lecture will be an overview of the class, requirements, and an introduction to the history of machine learning and systems research. 
 
 * Lecture slides: [[pdf](assets/lectures/lec01/01_ai-sys-intro-small.pdf), [pptx](assets/lectures/lec01/01_ai-sys-intro.pptx)]
@@ -99,7 +99,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 2)
 # Big Data Systems
-### Guest Speaker: Reynold Xin (Databricks)
+## [Guest Speaker: Reynold Xin (Databricks)](https://en.wikipedia.org/wiki/Reynold_Xin)
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -121,7 +121,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 3)
 # Hardware for Machine Learning
-### Guest Speaker: Prof. Sophia Shao (UC Berkeley)
+## [Guest Speaker: Prof. Sophia Shao (UC Berkeley)](https://people.eecs.berkeley.edu/~ysshao/index.html?_ga=2.228137950.2133028827.1643052087-1693328731.1500773369)
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -167,7 +167,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 5)
 # Distributed deep learning, Part II: Scaling Constraints
-### Guest Speaker: Michael Houston (Nvidia)
+## [Guest Speaker: Michael Houston (Nvidia)](http://graphics.stanford.edu/~mhouston/)
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -194,7 +194,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 7)
 # Machine learning Applied to Systems
-### Guest Speaker: Prof. Tim Kraska (MIT)
+## [Guest Speaker: Prof. Tim Kraska (MIT)](https://www.csail.mit.edu/person/tim-kraska)
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -214,7 +214,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 8)
 # Machine Learning Frameworks and Automatic Differentiation
-### Guest Speaker: Prof. Tianqi Chen (OctoML and CMU)
+## [Guest Speaker: Prof. Tianqi Chen (OctoML and CMU)](https://tqchen.com)
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -232,7 +232,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 9)
 # Efficient Machine Learning
-### Guest Speaker: Vikas Chandra (Facebook)
+## [Guest Speaker: Vikas Chandra (Facebook)](https://www.linkedin.com/in/vchandra/)
 
 * Lecture slides: [PDF], [PPTX]
 
@@ -255,14 +255,14 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 10)
 # Fundamentals of Machine Learning in the Cloud, the Modern Data Stack  
-### Guest Speaker: Prof. Matei Zaharia (Databricks and Stanford)
+## [Guest Speaker: Prof. Matei Zaharia (Databricks and Stanford)](https://cs.stanford.edu/people/matei/)
 
 * Lecture slides: [PDF], [PPTX]
 
 {% include syllabus_entry %}
 [//]: <> (lecture 11)
 # Benchmarking Machine Learning Workloads
-### Guest Speaker: Prof. Vijay Reddi (Harvard)
+## [Guest Speaker: Prof. Vijay Reddi (Harvard)](https://scholar.harvard.edu/vijay-janapa-reddi/home)
 
 * Lecture slides: [PDF], [PPTX]
 
