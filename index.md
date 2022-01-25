@@ -10,14 +10,14 @@ layout: default
 * **Instructor**: [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
 * **Co-Instructor**: [Amir Gholami](https://eecs.berkeley.edu/~amirgh)
 * **Office Hours:**: Arrange by email.
-* **Announcements**: [Piazza](piazza.com/berkeley/spring2022/cs294162)
+* **Announcements**: Slack (please send us an email if you are not added yet) 
 * **Sign-up to Present**: Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
 * If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-sp22) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-sp22/blob/master/index.md) file.
 
 
 ## Course Description
 
-The recent success of AI has been in large part due in part to advances in hardware and software systems. These systems have enabled training increasingly complex models on ever larger datasets. In the process, these systems have also simplified model development, enabling the rapid growth in the machine learning community. These new hardware and software systems include a new generation of GPUs and hardware accelerators (e.g., TPU and Nervana), open source frameworks such as Theano, TensorFlow, PyTorch, MXNet, Apache Spark, Clipper, Horovod, and Ray, and a myriad of systems deployed internally at companies just to name a few. 
+The recent success of AI has been in large part due in part to advances in hardware and software systems. These systems have enabled training increasingly complex models on ever larger datasets. In the process, these systems have also simplified model development, enabling the rapid growth in the machine learning community. These new hardware and software systems include a new generation of GPUs and hardware accelerators (e.g., TPU), open source frameworks such as Theano, TensorFlow, PyTorch, MXNet, Apache Spark, Clipper, Horovod, and Ray, and a myriad of systems deployed internally at companies just to name a few. 
 At the same time, we are witnessing a flurry of ML/RL applications to improve hardware and system designs, job scheduling, program synthesis, and circuit layouts.  
 
 In this course, we will describe the latest trends in systems designs to better support the next generation of AI applications, and applications of AI to optimize the architecture and the performance of systems. 
