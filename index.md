@@ -101,6 +101,8 @@ This lecture will be an overview of the class, requirements, and an introduction
 # Big Data Systems
 ## [Guest Speaker: Reynold Xin (Databricks)](https://en.wikipedia.org/wiki/Reynold_Xin)
 
+* [Submit your review](https://forms.gle/Arj4xh3NzWWiDbSU7) before 1:00PM.
+
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
