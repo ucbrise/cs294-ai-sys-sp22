@@ -130,6 +130,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 <div class="reading">
 
 <div class="required_reading" markdown="1">
+* [Mixed precision training. [ICLR’18]](https://openreview.net/pdf?id=r1gs9JgRZ)
 * [Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks [SIGRAPH, 2016]](https://dspace.mit.edu/handle/1721.1/102369)
 * [Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators (formerly: DNN Dataflow Choice Is Overrated)](https://arxiv.org/pdf/1809.04070.pdf)
 * [Gemmini: Enabling Systematic Deep-Learning Architecture Evaluation via Full-Stack Integration [Best Paper Award, DAC’21]](https://people.eecs.berkeley.edu/~ysshao/assets/papers/genc2021-dac.pdf)
