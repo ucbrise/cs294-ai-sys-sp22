@@ -103,7 +103,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * [Submit your review](https://forms.gle/Arj4xh3NzWWiDbSU7) before 1:00PM.
 
-* Lecture slides: [PDF], [PPTX]
+* Lecture slides: [PDF](assets/lectures/lec02/lec_02.pdf), [PPTX](assets/lectures/lec02/lec_02.pptx)
 
 <div class="reading">
 
