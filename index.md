@@ -104,7 +104,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 * [Submit your review](https://forms.gle/Arj4xh3NzWWiDbSU7) before 1:00PM.
 
 * Lecture slides: [PDF](assets/lectures/lec02/lec_02.pdf), [PPTX](assets/lectures/lec02/lec_02.pptx)
-* Guest Lecture slides: [PDF](2022-01-31_Lakehouse_Berkeley.pdf)
+* Guest Lecture slides: [PDF](assets/lectures/lec02/2022-01-31_Lakehouse_Berkeley.pdf)
 
 <div class="reading">
 
@@ -125,6 +125,8 @@ This lecture will be an overview of the class, requirements, and an introduction
 [//]: <> (lecture 3)
 # Hardware for Machine Learning
 ## [Guest Speaker: Prof. Sophia Shao (UC Berkeley)](https://people.eecs.berkeley.edu/~ysshao/index.html?_ga=2.228137950.2133028827.1643052087-1693328731.1500773369)
+
+* [Submit your review](https://forms.gle/qopNSZp8EuKcDqkT9) before 1:00PM.
 
 * Lecture slides: [PDF], [PPTX]
 
