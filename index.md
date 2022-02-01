@@ -140,7 +140,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 </div>
 
 <div class="optional_reading" markdown="1">
-* [In-Datacenter Performance Analysis of a Tensor Processing Unit [ISCA’17]](https://arxiv.org/ftp/arxiv/papers/1704/1704.04760.pdf)
+* [A New Golden Age for Computer Architecture](https://cacm.acm.org/magazines/2019/2/234352-a-new-golden-age-for-computer-architecture/fulltext)
 * [Roofline: An Insightful Visual Performance Model for Floating-Point Programs and Multicore Architectures [CACM’08]](https://people.eecs.berkeley.edu/~kubitron/cs252/handouts/papers/RooflineVyNoYellow.pdf)
 </div>
 </div>
