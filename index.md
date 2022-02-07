@@ -128,7 +128,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * [Submit your review](https://forms.gle/qopNSZp8EuKcDqkT9) before 1:00PM.
 
-* Lecture slides: [PDF], [PPTX]
+* Lecture slides: [PDF](assets/lectures/lec03/lec_03.pdf), [PPTX](assets/lectures/lec03/lec_03.pptx)
 
 <div class="reading">
 
@@ -163,6 +163,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 * [DeepSpeed: Advancing MoE inference and training to power next-generation AI scale [Blog post]](https://www.microsoft.com/en-us/research/blog/deepspeed-advancing-moe-inference-and-training-to-power-next-generation-ai-scale/)
 * [Large Scale Distributed Deep Networks [NeurIPS’12]](https://papers.nips.cc/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)
 * [Gpipe: Efficient training of giant neural networks using pipeline parallelism [NeurIPS’19]](https://proceedings.neurips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf)
+* [PipeDream: Fast and Efficient Pipeline Parallel DNN Training [SOSP'19]](https://arxiv.org/pdf/1806.03377.pdf)
 </div>
 </div>
 
