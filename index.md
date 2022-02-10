@@ -129,6 +129,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 * [Submit your review](https://forms.gle/qopNSZp8EuKcDqkT9) before 1:00PM.
 
 * Lecture slides: [PDF](assets/lectures/lec03/lec_03.pdf), [PPTX](assets/lectures/lec03/lec_03.pptx)
+* Guest Lecture slides: [PDF](assets/lectures/lec03/shao-ai-sys-guest-lecture-2022.pdf)
 
 <div class="reading">
 
