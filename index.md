@@ -149,6 +149,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 4)
 # Distributed deep learning, Part I: Systems 
+## [Guest Speaker: Microsoft DeepSpeed Team](https://www.deepspeed.ai)
 
 * [Submit your review](https://forms.gle/rCsHe1oFqMSiKjgw7) before 1:00PM.
 
