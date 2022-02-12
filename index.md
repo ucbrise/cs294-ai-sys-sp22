@@ -150,6 +150,8 @@ This lecture will be an overview of the class, requirements, and an introduction
 [//]: <> (lecture 4)
 # Distributed deep learning, Part I: Systems 
 
+* [Submit your review](https://forms.gle/rCsHe1oFqMSiKjgw7) before 1:00PM.
+
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
@@ -177,6 +179,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 # Distributed deep learning, Part II: Scaling Constraints
 ## [Guest Speaker: Michael Houston (Nvidia)](http://graphics.stanford.edu/~mhouston/)
 
+* [Submit your review](https://forms.gle/Y5ya8YETxwW7jr5aA) before 1:00PM.
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
