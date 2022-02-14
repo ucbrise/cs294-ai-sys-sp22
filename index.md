@@ -153,12 +153,13 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * [Submit your review](https://forms.gle/rCsHe1oFqMSiKjgw7) before 1:00PM.
 
-* Lecture slides: [PDF], [PPTX]
+* Lecture slides: [PDF](assets/lectures/lec04/lec_04.pdf), [PPTX](assets/lectures/lec04/lec_04.pptx)
+
 
 <div class="reading">
 
 <div class="required_reading" markdown="1">
-* [Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines [SC’21, Best Student Paper finalist]](https://arxiv.org/pdf/2107.06925.pdf)
+* [Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines [SC’21, Best Paper finalist]](https://arxiv.org/pdf/2107.06925.pdf)
 * [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM [SC’21, Best Student Paper]](https://arxiv.org/pdf/2104.04473.pdf)
 * [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning [SC’21]](https://arxiv.org/abs/2104.07857)
 </div>
