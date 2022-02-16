@@ -154,6 +154,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 * [Submit your review](https://forms.gle/rCsHe1oFqMSiKjgw7) before 1:00PM.
 
 * Lecture slides: [PDF](assets/lectures/lec04/lec_04.pdf), [PPTX](assets/lectures/lec04/lec_04.pptx)
+* Guest Lecture slides: [PDF](assets/lectures/lec04/zero-family.pptx)
 
 
 <div class="reading">
