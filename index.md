@@ -183,7 +183,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 ## [Guest Speaker: Michael Houston (Nvidia)](http://graphics.stanford.edu/~mhouston/)
 
 * [Submit your review](https://forms.gle/Y5ya8YETxwW7jr5aA) before 1:00PM.
-* Lecture slides: [PDF], [PPTX]
+* Lecture slides: [PDF](assets/lectures/lec05/lec_05.pdf), [PPTX](assets/lectures/lec05/lec_05.pptx)
 
 <div class="reading">
 
