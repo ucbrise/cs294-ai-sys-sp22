@@ -184,6 +184,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * [Submit your review](https://forms.gle/Y5ya8YETxwW7jr5aA) before 1:00PM.
 * Lecture slides: [PDF](assets/lectures/lec05/lec_05.pdf), [PPTX](assets/lectures/lec05/lec_05.pptx)
+* Guest Lecture slides: [PDF](assets/lectures/lec05/UCB_MLSys_Mike_Houston.pdf)
 
 <div class="reading">
 
