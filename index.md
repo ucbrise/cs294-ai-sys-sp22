@@ -205,6 +205,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 6)
 # Project Proposals 
+* Lecture slides: [PDF](assets/lectures/lec06/ml_applied_to_systems.pdf), [PPTX](assets/lectures/lec06/ml_applied_to_systems.pptx)
 
 {% include syllabus_entry %}
 [//]: <> (lecture 7)
