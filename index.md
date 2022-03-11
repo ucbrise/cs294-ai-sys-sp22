@@ -232,6 +232,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 # Machine Learning Frameworks and Automatic Differentiation
 ## [Guest Speaker: Prof. Tianqi Chen (OctoML and CMU)](https://tqchen.com)
 
+* [Submit your review](https://forms.gle/NhtiFZ4GsxYuug3W6) before 1:00PM.
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
