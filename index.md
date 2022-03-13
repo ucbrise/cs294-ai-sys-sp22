@@ -210,9 +210,9 @@ This lecture will be an overview of the class, requirements, and an introduction
 {% include syllabus_entry %}
 [//]: <> (lecture 7)
 # Machine learning Applied to Systems
-* [Submit your review](https://forms.gle/NhtiFZ4GsxYuug3W6) before 1:00PM.
 ## [Guest Speaker: Prof. Tim Kraska (MIT)](https://www.csail.mit.edu/person/tim-kraska)
 
+* [Submit your review](https://forms.gle/NhtiFZ4GsxYuug3W6) before 1:00PM.
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
