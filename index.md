@@ -229,7 +229,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 # Spring Break
 
 {% include syllabus_entry %}
-[//]: <> (lecture 8)
+[//]: <> (lecture 9)
 # Machine Learning Frameworks and Automatic Differentiation
 ## [Guest Speaker: Prof. Tianqi Chen (OctoML and CMU)](https://tqchen.com)
 
@@ -248,10 +248,11 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-[//]: <> (lecture 9)
+[//]: <> (lecture 10)
 # Efficient Machine Learning
 ## [Guest Speaker: Vikas Chandra (Facebook)](https://www.linkedin.com/in/vchandra/)
 
+* [Submit your review](https://forms.gle/gXiLKSUEuFLscZuS9) before 1:00PM.
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
@@ -271,14 +272,14 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-[//]: <> (lecture 10)
+[//]: <> (lecture 11)
 # Fundamentals of Machine Learning in the Cloud, the Modern Data Stack  
 ## [Guest Speaker: Prof. Matei Zaharia (Databricks and Stanford)](https://cs.stanford.edu/people/matei/)
 
 * Lecture slides: [PDF], [PPTX]
 
 {% include syllabus_entry %}
-[//]: <> (lecture 11)
+[//]: <> (lecture 12)
 # Benchmarking Machine Learning Workloads
 ## [Guest Speaker: Prof. Vijay Reddi (Harvard)](https://scholar.harvard.edu/vijay-janapa-reddi/home)
 
