@@ -234,7 +234,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 ## [Guest Speaker: Prof. Tianqi Chen (OctoML and CMU)](https://tqchen.com)
 
 * [Submit your review](https://forms.gle/sxMrFsWDGsrToaxm6) before 1:00PM.
-* Lecture slides: [PDF], [PPTX]
+* Lecture slides: [PDF](assets/lectures/lec09/lec_09.pdf), [PPTX](assets/lectures/lec09/lec_09.pptx)
 
 <div class="reading">
 
@@ -258,14 +258,14 @@ This lecture will be an overview of the class, requirements, and an introduction
 <div class="reading">
 
 <div class="required_reading" markdown="1">
+* [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/pdf/1912.05671.pdf)
 * [Integer-only Quantization of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/pdf/1712.05877.pdf)
-* [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
 * [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443)
 </div>
 
 <div class="optional_reading" markdown="1">
+* [Hessian Aware trace-Weighted Quantization of Neural Networks](https://proceedings.neurips.cc/paper/2020/file/d77c703536718b95308130ff2e5cf9ee-Paper.pdf)
 * [The state of sparsity in deep neural networks](https://arxiv.org/pdf/1902.09574.pdf)
-* [Quantization and training of neural networks for efficient integer-arithmetic-only inference](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jacob_Quantization_and_Training_CVPR_2018_paper.pdf)
 * [Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/pdf/2102.00554.pdf)
 </div>
 </div>
