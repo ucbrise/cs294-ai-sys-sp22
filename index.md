@@ -178,7 +178,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-[//]: <> (lecture 5)
+[//]: <> (lecture 6)
 # Distributed deep learning, Part II: Scaling Constraints
 ## [Guest Speaker: Michael Houston (Nvidia)](http://graphics.stanford.edu/~mhouston/)
 
@@ -203,12 +203,12 @@ This lecture will be an overview of the class, requirements, and an introduction
 </div>
 
 {% include syllabus_entry %}
-[//]: <> (lecture 6)
+[//]: <> (lecture 7)
 # Project Proposals 
 * Lecture slides: [PDF](assets/lectures/lec06/ml_applied_to_systems.pdf), [PPTX](assets/lectures/lec06/ml_applied_to_systems.pptx)
 
 {% include syllabus_entry %}
-[//]: <> (lecture 7)
+[//]: <> (lecture 8)
 # Machine learning Applied to Systems
 ## [Guest Speaker: Prof. Tim Kraska (MIT)](https://www.csail.mit.edu/person/tim-kraska)
 
@@ -229,12 +229,13 @@ This lecture will be an overview of the class, requirements, and an introduction
 # Spring Break
 
 {% include syllabus_entry %}
-[//]: <> (lecture 9)
+[//]: <> (lecture 10)
 # Machine Learning Frameworks and Automatic Differentiation
 ## [Guest Speaker: Prof. Tianqi Chen (OctoML and CMU)](https://tqchen.com)
 
 * [Submit your review](https://forms.gle/sxMrFsWDGsrToaxm6) before 1:00PM.
-* Lecture slides: [PDF](assets/lectures/lec09/lec_09.pdf), [PPTX](assets/lectures/lec09/lec_09.pptx)
+* Lecture slides: [PDF](assets/lectures/lec10/lec_10.pdf), [PPTX](assets/lectures/lec10/lec_10.pptx)
+* Joey's Lecture slides: [PDF](assets/lectures/lec10/10_deep_learning_frameworks.pdf.pdf), [PPTX](assets/lectures/lec10/10_deep_learning_frameworks.pptx)
 
 <div class="reading">
 
@@ -248,7 +249,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-[//]: <> (lecture 10)
+[//]: <> (lecture 11)
 # Efficient Machine Learning
 ## [Guest Speaker: Vikas Chandra (Facebook)](https://www.linkedin.com/in/vchandra/)
 
@@ -271,10 +272,11 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-[//]: <> (lecture 11)
+[//]: <> (lecture 12)
 # Fundamentals of Machine Learning in the Cloud, the Modern Data Stack  
 ## [Guest Speaker: Prof. Matei Zaharia (Databricks and Stanford)](https://cs.stanford.edu/people/matei/)
 
+* [Submit your review](https://forms.gle/qY7cgn4eAuutJQoz8) before 1:00PM.
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
@@ -290,7 +292,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-[//]: <> (lecture 12)
+[//]: <> (lecture 13)
 # Benchmarking Machine Learning Workloads
 ## [Guest Speaker: Prof. Vijay Reddi (Harvard)](https://scholar.harvard.edu/vijay-janapa-reddi/home)
 
@@ -307,7 +309,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 </div>
 
 {% include syllabus_entry %}
-[//]: <> (lecture 12)
+[//]: <> (lecture 14)
 # Machine learning and Security
 
 * Lecture slides: [PDF], [PPTX]
