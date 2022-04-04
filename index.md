@@ -234,8 +234,8 @@ This lecture will be an overview of the class, requirements, and an introduction
 ## [Guest Speaker: Prof. Tianqi Chen (OctoML and CMU)](https://tqchen.com)
 
 * [Submit your review](https://forms.gle/sxMrFsWDGsrToaxm6) before 1:00PM.
-* Lecture slides: [PDF](assets/lectures/lec10/lec_10.pdf), [PPTX](assets/lectures/lec10/lec_10.pptx)
-* Joey's Lecture slides: [PDF](assets/lectures/lec10/10_deep_learning_frameworks.pdf.pdf), [PPTX](assets/lectures/lec10/10_deep_learning_frameworks.pptx)
+* Lecture slides: [PDF](assets/lectures/lec10/lec10.pdf), [PPTX](assets/lectures/lec10/lec10.pptx)
+* Joey's Lecture slides: [PDF](assets/lectures/lec10/10_deep_learning_frameworks.pdf), [PPTX](assets/lectures/lec10/10_deep_learning_frameworks.pptx)
 
 <div class="reading">
 
