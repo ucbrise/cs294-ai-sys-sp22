@@ -256,7 +256,6 @@ This lecture will be an overview of the class, requirements, and an introduction
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
-
 <div class="required_reading" markdown="1">
 * [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/pdf/1912.05671.pdf)
 * [Integer-only Quantization of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/pdf/1712.05877.pdf)
@@ -277,6 +276,18 @@ This lecture will be an overview of the class, requirements, and an introduction
 ## [Guest Speaker: Prof. Matei Zaharia (Databricks and Stanford)](https://cs.stanford.edu/people/matei/)
 
 * Lecture slides: [PDF], [PPTX]
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [The Sky Above The Clouds](assets/papers/sky_paper.pdf)
+* [FrugalML: How to Use ML Prediction APIs More Accurately and Cheaply](https://arxiv.org/abs/2006.07512)
+* [Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning](https://www.usenix.org/system/files/osdi21-qiao.pdf)
+</div>
+<div class="optional_reading" markdown="1">
+* [RubberBand: cloud-based hyperparameter tuning](https://dl.acm.org/doi/10.1145/3447786.3456245)
+</div>
+</div>
+
 
 {% include syllabus_entry %}
 [//]: <> (lecture 12)
