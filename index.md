@@ -254,7 +254,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 ## [Guest Speaker: Vikas Chandra (Facebook)](https://www.linkedin.com/in/vchandra/)
 
 * [Submit your review](https://forms.gle/gXiLKSUEuFLscZuS9) before 1:00PM.
-* Lecture slides: [PDF], [PPTX]
+* Lecture slides: [PDF](assets/lectures/lec11/cloud_computing_for_ml_sys_class.pdf), [PPTX](assets/lectures/lec11/cloud_computing_for_ml_sys_class.pptx)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
