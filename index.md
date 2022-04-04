@@ -281,7 +281,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [The Sky Above The Clouds](assets/papers/sky_paper.pdf)
+* [The Sky Above The Clouds](https://drive.google.com/file/d/16xs_-3XRym34z60-Ji4dlDwW487vOmpz/view?usp=sharing)
 * [FrugalML: How to Use ML Prediction APIs More Accurately and Cheaply](https://arxiv.org/abs/2006.07512)
 * [Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning](https://www.usenix.org/system/files/osdi21-qiao.pdf)
 </div>
