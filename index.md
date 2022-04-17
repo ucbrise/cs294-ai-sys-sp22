@@ -277,7 +277,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 ## [Guest Speaker: Prof. Matei Zaharia (Databricks and Stanford)](https://cs.stanford.edu/people/matei/)
 
 * [Submit your review](https://forms.gle/qY7cgn4eAuutJQoz8) before 1:00PM.
-* Lecture slides: [PDF], [PPTX]
+* Lecture slides: [PDF](assets/lectures/lec12/mlaas-guest-talk.pdf)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -296,6 +296,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 # Benchmarking Machine Learning Workloads
 ## [Guest Speaker: Prof. Vijay Reddi (Harvard)](https://scholar.harvard.edu/vijay-janapa-reddi/home)
 
+* [Submit your review](https://forms.gle/dhPjXGt1Vg6bfytBA) before 1:00PM.
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
