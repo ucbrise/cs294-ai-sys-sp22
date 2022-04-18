@@ -320,7 +320,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/pdf/1602.05629.pdf)
 * [Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform](https://arxiv.org/pdf/1909.01502.pdf)  
-* [Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware](https://arxiv.org/abs/1806.03287)
+* [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945)
 
 </div>
 <div class="optional_reading" markdown="1">
