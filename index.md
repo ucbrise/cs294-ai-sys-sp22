@@ -297,7 +297,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 ## [Guest Speaker: Prof. Vijay Reddi (Harvard)](https://scholar.harvard.edu/vijay-janapa-reddi/home)
 
 * [Submit your review](https://forms.gle/dhPjXGt1Vg6bfytBA) before 1:00PM.
-* Lecture slides: [PDF], [PPTX]
+* Lecture slides: [PDF](assets/lectures/lec13/11_adversarial_ml.pdf), [PPTX](assets/lectures/lec13/11_adversarial_ml.pptx)
 
 <div class="reading">
 
