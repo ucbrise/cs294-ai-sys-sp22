@@ -313,6 +313,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 [//]: <> (lecture 14)
 # Machine learning and Security
 
+* [Submit your review](https://forms.gle/YS81hd55X2bXsArUA) before 1:00PM.
 * Lecture slides: [PDF], [PPTX]
 
 <div class="reading">
