@@ -314,7 +314,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 # Machine learning and Security
 
 * [Submit your review](https://forms.gle/YS81hd55X2bXsArUA) before 1:00PM.
-* Lecture slides: [PDF], [PPTX]
+* Lecture slides: [PDF](assets/lectures/lec14/bo_ucb.pdf)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
